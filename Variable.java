@@ -6,7 +6,7 @@ public class Variable {
            void main()
            {
             int x=7 ;
-            System.out.println(a); // local variable 
+            System.out.println(x); // local variable 
               
            }
            public static void main(String args [])
